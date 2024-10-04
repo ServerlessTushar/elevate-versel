@@ -1,0 +1,11 @@
+User-agent: *
+Allow: joinelevatenow.com/sitemap.xml
+
+User-agent: *
+Disallow:/pp
+Disallow:/en-eligibility
+Disallow:/eligibility-ab
+Disallow:/nasik-landing-page
+Disallow:/website-eligibility
+Disallow:/aurangabad-landing-page
+

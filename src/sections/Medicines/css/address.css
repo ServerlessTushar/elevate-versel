@@ -1,0 +1,21 @@
+.selected {
+  background: #ea6f54c2;
+  color: white;
+}
+
+.unselected {
+  background: transparent;
+  color: #ea6f54;
+}
+
+.address-type {
+  font-size: 0.75rem;
+  line-height: 1rem;
+  border-width: 1px;
+  border-color: #ea6f54;
+  border-radius: 0.5rem;
+  padding-left: 1rem /* 16px */;
+  padding-right: 1rem /* 16px */;
+  padding-top: 0.25rem /* 4px */;
+  padding-bottom: 0.25rem /* 4px */;
+}
